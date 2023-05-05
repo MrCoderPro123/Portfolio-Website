@@ -1,0 +1,10 @@
+.dwnBtn{
+    background-color: red;
+    width: 100px;
+    height: 25px;
+    border-radius: 20px;
+}
+.dwnBtn:hover{
+    background-color: orange;
+    cursor: pointer;
+}

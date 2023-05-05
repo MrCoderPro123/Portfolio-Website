@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    height: 10vh;
+    background-color: rgb(0, 241, 52);
+    align-items: center;
+}
+header nav ul li{
+    display: inline;
+    padding: 10px;
+}
+header nav ul li a{
+    color: red;
+    text-decoration: none;
+}
+header nav ul li a:hover{
+    color: black;
+    text-decoration: underline;
+}
+main{
+    height: 80vh;
+}
+footer{
+    display: flex;
+    height: 10vh;
+    background-color: rgb(0, 241, 52);
+    justify-content: center;
+    align-items: center;
+}

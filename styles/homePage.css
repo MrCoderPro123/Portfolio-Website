@@ -1,0 +1,10 @@
+#youtubeBtn{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+#youtubeBtn:hover{
+    background-color: orange;
+    cursor: pointer;
+}
