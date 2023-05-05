@@ -1,3 +1,13 @@
 main{
     height: 200vh;
 }
+#moreTut{
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+#moreTut:hover{
+    background-color: orange;
+    cursor: pointer;
+}
