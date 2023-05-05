@@ -8,3 +8,32 @@
     background-color: orange;
     cursor: pointer;
 }
+.introduction{
+    background-image: url("../images/background.png");
+    height: 500px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.introduction #text{
+    padding-top: 200px;
+}
+header{
+    position: fixed;
+}
+main{
+    height: 150vh;
+}
+.vedios #veds{
+    display: flex;
+}
+#readBtn{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+#readBtn:hover{
+    background-color: orange;
+    cursor: pointer;
+}
